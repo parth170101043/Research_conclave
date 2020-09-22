@@ -1,0 +1,80 @@
+/*CSS STYLE*/
+
+#main-wrapper{
+
+	width: 300px;
+	margin: 0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 2px solid 	#00008B;
+}
+#main-wrapper1{
+
+	margin: 0 auto;
+	background-color: #FFFF00;
+	padding: 5px;
+	border-radius: 10px;
+	border: 2px solid 	#00008B;
+}
+.logo{
+	background-color:#00008B; 
+	width: 150px;
+	border-radius: 1000%;
+	text-align: center;
+}
+#top-bar{
+	background-color: white;
+	margin-top: 0;
+	border-radius: 10px;
+	border: 2px solid #00008B;
+}
+.inputvalues{
+	
+	padding: 5px;
+	width: 280px;
+}
+#login_btn{
+	background-color: #00008B;
+	color: white;
+	margin-top: 10px;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+}
+#sign_btn{
+	color: white;
+	background-color: #00FF00;
+	margin-top: 10px;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#back_btn{
+	color: white;
+	background-color: #FF0000;
+	margin-top: 10px;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#confirm_btn{
+	color: white;
+	background-color: #FF0000;
+	margin-top: 10px;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#logout_btn{
+	color: white;
+	background-color: #FF0000;
+	margin-top: 10px;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+}
